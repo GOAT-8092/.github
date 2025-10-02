@@ -46,7 +46,7 @@
 
 **Nasıl destek olabilirsiniz?**
 - Sponsorluk paketleri: <https://8092.tr/sponsor>  
-- WhatsApp ile hızlı iletişim (ön yazı hazır): <https://wa.me/905339592302?text=Merhaba%21%20G.O.A.T.%20%238092%20FRC%20tak%C4%B1m%C4%B1na%20sponsorluk%20ile%20ilgileniyoruz.>  
+- WhatsApp ile hızlı iletişim: <https://wa.me/905339592302?text=Merhaba%21%20G.O.A.T.%20%238092%20FRC%20tak%C4%B1m%C4%B1na%20sponsorluk%20ile%20ilgileniyoruz.>  
 - E-posta: <iletisim@8092.tr>
 
 **Kilit depolar (örnek/planlanan)**
@@ -82,7 +82,7 @@
 
 **Support us**
 - Sponsorship: <https://8092.tr/sponsor>  
-- WhatsApp (prefilled): <https://wa.me/905339592302?text=Hello%21%20We%27re%20interested%20in%20supporting%20FRC%20Team%208092.>  
+- WhatsApp: <https://wa.me/905339592302?text=Hello%21%20We%27re%20interested%20in%20supporting%20FRC%20Team%208092.>  
 - Email: <iletisim@8092.tr>
 
 **Key repos (sample/planned)**
