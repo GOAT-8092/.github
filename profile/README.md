@@ -41,7 +41,7 @@
 - Güvenilir **otonom** rutinler, sensör füzyonu  
 - **Swerve** tahrik (bütçe onayına bağlı) ve kuvvetli sürüş testleri  
 - Kod kalitesi: birim testleri, komut tabanlı mimari, PID/profil kontrol  
-- **Kapsayıcılık hedefi:** Takımda ≥%35 kız öğrenci, sezon sonu **≥%75** devamlılık  
+- **Kapsayıcılık hedefi:** Takımda ≥%40 kız öğrenci, sezon sonu **≥%75** devamlılık  
 - Bölgesel etki: Trakya’da (Tekirdağ-Edirne-Kırklareli-Çanakkale) örnek paydaş ağları
 
 **Nasıl destek olabilirsiniz?**
@@ -77,7 +77,7 @@
 - Robust **autonomous** routines and sensor fusion  
 - **Swerve** drive (budget-dependent) & validation testing  
 - Code quality: unit tests, command-based architecture, PID/profiling  
-- **Inclusion goal:** ≥**35%** female participation, season retention **≥75%**  
+- **Inclusion goal:** ≥**40%** female participation, season retention **≥75%**  
 - Regional impact across Thrace (Tekirdağ-Edirne-Kırklareli-Çanakkale)
 
 **Support us**
